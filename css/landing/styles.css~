@@ -144,6 +144,7 @@ img.grayscale {
 }
 
 .callout {
+  color: #ffffff;
   padding-top:7%;
   height: 100%;
   width: 100%;
